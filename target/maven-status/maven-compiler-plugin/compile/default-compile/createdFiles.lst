@@ -1,5 +1,7 @@
+com\example\aplicativo\AplicativoApplication$MyConfiguration$1.class
 com\example\aplicativo\repository\RolesUsuariosRepository.class
 com\example\aplicativo\controller\RolesUsuariosController.class
+com\example\aplicativo\AplicativoApplication$MyConfiguration.class
 com\example\aplicativo\model\RolesUsuarios.class
 com\example\aplicativo\repository\DelitosRepository.class
 com\example\aplicativo\controller\CasosController.class
